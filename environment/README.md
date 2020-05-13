@@ -49,17 +49,17 @@ Principiile REST sunt reprezentate de:
 Am exemplificat funcționarea request/response cu ajutorul platformei POSTMAN.
 Acestea sunt:
 ####	POST
- ![](/proiectCloudComputingGusatuIulia/images/exempluPOST.PNG)
+ ![](/environment/images/exempluPOST.PNG)
 Fig. 1. POST
 
 ####	PUT
- ![](/proiectCloudComputingGusatuIulia/images/exempluPUT.PNG)
+ ![](/environment/images/exempluPUT.PNG)
 Fig. 2. PUT
 ####	DELETE
- ![](/proiectCloudComputingGusatuIulia/images/exempluDELETE.PNG)
+ ![](/environment/images/exempluDELETE.PNG)
 Fig. 3. Delete
 ####	GET
- ![](/proiectCloudComputingGusatuIulia/images/exempluGET.PNG)
+ ![](/environment/images/exempluGET.PNG)
 Fig. 4. GET
 
 ###5.	Metode HTTP
@@ -71,12 +71,12 @@ Pentru autentificare și autorizare, mi-am făcut cont pe platforma AWS de la Am
  ![](/proiectCloudComputingGusatuIulia/images/exempluMediuAWS.PNG)
 Fig. 5. Cont AWS
 
- ![](/proiectCloudComputingGusatuIulia/images/exempluAPIKEY.PNG)
+ ![](/environment/images/exempluAPIKEY.PNG)
 Fig. 6. API KEY
 
 ##V.	Capturi de ecran
  
- ![](/proiectCloudComputingGusatuIulia/images/BookMania.PNG)
+ ![](/environment/images/BookMania.PNG)
 Fig.7. BookMania
 
 
