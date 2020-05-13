@@ -48,17 +48,17 @@ Principiile REST sunt reprezentate de:
 ###4.	Exemple de request/response
 Am exemplificat funcționarea request/response cu ajutorul platformei POSTMAN.
 Acestea sunt:
-####-	POST
+####	POST
  ![](/proiectCloudComputingGusatuIulia/images/exempluPOST.PNG)
 Fig. 1. POST
 
-####-	PUT
+####	PUT
  ![](/proiectCloudComputingGusatuIulia/images/exempluPUT.PNG)
 Fig. 2. PUT
-####-	DELETE
+####	DELETE
  ![](/proiectCloudComputingGusatuIulia/images/exempluDELETE.PNG)
 Fig. 3. Delete
-####-	GET
+####	GET
  ![](/proiectCloudComputingGusatuIulia/images/exempluGET.PNG)
 Fig. 4. GET
 
