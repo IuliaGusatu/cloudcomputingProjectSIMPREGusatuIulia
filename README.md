@@ -1,0 +1,2 @@
+# cloudcomputingProjectSIMPREGusatuIulia
+CloudComputingProject
