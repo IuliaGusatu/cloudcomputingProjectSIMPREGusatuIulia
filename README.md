@@ -67,7 +67,7 @@ Metodele HTTP folosite sunt reprezentate de cele CRUD: POST; PUT; DELETE; GET, e
 
 ###6.	Autentificare și autorizare servicii utilizate
 
-Pentru autentificare și autorizare, mi-am făcut cont pe platforma AWS de la Amazon pentru a accesa mediul de lucru furnizat, Cloud9, iar în cazul GOOGLE BOOKS API, mi-am configurat credențialele și mi-am activat API-ul respective, creându-mi și un API key.
+Pentru autentificare și autorizare, mi-am făcut cont pe platforma AWS de la Amazon pentru a accesa mediul de lucru furnizat, Cloud9, iar în cazul GOOGLE BOOKS API, mi-am configurat credențialele și mi-am activat API-ul respective, creându-mi și un API key. De asemenea, am folosit pentru deployment, versiunea pentru studenti a platformei Azure si am beneficiat de resurse gratuite, in limita a 100$.
  ![](/proiectCloudComputingGusatuIulia/images/exempluMediuAWS.PNG)
 Fig. 5. Cont AWS
 
